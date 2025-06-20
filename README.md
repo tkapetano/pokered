@@ -37,4 +37,6 @@ For other pret projects, see [pret.github.io](https://pret.github.io/).
 pokered_v1: 
 - quicker walking , works
 
+pokered_v2:
+- starters are birds
 
