@@ -29,3 +29,12 @@ For other pret projects, see [pret.github.io](https://pret.github.io/).
 [tools]: https://github.com/pret/gb-asm-tools
 [ci]: https://github.com/pret/pokered/actions
 [ci-badge]: https://github.com/pret/pokered/actions/workflows/main.yml/badge.svg
+
+
+## Personal change log
+ cp pokered.gbc ~/Documents/GBC/own_mods/pokered_v1.gbc
+
+pokered_v1: 
+- quicker walking , works
+
+
