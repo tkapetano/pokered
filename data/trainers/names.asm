@@ -25,7 +25,7 @@ TrainerNames::
 	li "BIRD KEEPER"
 	li "BLACKBELT"
 	li "RIVAL1"
-	li "PROF.OAK"
+	li "MC.OAK"
 	li "CHIEF"
 	li "SCIENTIST"
 	li "GIOVANNI"

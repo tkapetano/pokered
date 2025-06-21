@@ -38,5 +38,10 @@ pokered_v1:
 - quicker walking , works
 
 pokered_v2:
-- starters are birds
+- starters are birds, works - but text is wrong and Rival still has normal starter
+- tried changing the title but it is not simple text
+
+pokered_v3:
+- adapted some text
+- renamed PROF.OAK to MC.OAK
 

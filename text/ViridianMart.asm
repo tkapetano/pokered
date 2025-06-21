@@ -1,6 +1,6 @@
 _ViridianMartClerkSayHiToOakText::
 	text "Okay! Say hi to"
-	line "PROF.OAK for me!"
+	line "MC.OAK for me!"
 	done
 
 _ViridianMartClerkYouCameFromPalletTownText::

@@ -28,19 +28,19 @@ _OaksLabThoseArePokeBallsText::
 _OaksLabYouWantCharmanderText::
 	text "So! You want the"
 	line "fire #MON,"
-	cont "CHARMANDER?"
+	cont "MOLTRES?"
 	done
 
 _OaksLabYouWantSquirtleText::
 	text "So! You want the"
 	line "water #MON,"
-	cont "SQUIRTLE?"
+	cont "ARTICUNO?"
 	done
 
 _OaksLabYouWantBulbasaurText::
 	text "So! You want the"
 	line "plant #MON,"
-	cont "BULBASAUR?"
+	cont "ZAPDOS?"
 	done
 
 _OaksLabMonEnergeticText::
@@ -56,7 +56,7 @@ _OaksLabReceivedMonText::
 	text_end
 
 _OaksLabLastMonText::
-	text "That's PROF.OAK's"
+	text "That's MC.OAK's"
 	line "last #MON!"
 	done
 
@@ -106,6 +106,7 @@ _OaksLabOak1ParcelThanksText::
 	line "custom # BALL"
 	cont "I ordered!"
 	cont "Thank you!"
+	cont "My errand boy."
 	done
 
 _OaksLabOak1PokemonAroundTheWorldText::
@@ -175,7 +176,7 @@ _OaksLabOak2Text::
 	done
 
 _OaksLabGirlText::
-	text "PROF.OAK is the"
+	text "MC.OAK is the"
 	line "authority on"
 	cont "#MON!"
 
@@ -215,7 +216,12 @@ _OaksLabOakChooseMonText::
 	para "In my old age, I"
 	line "have only 3 left,"
 	cont "but you can have"
-	cont "one! Choose!"
+	cont "one! hmm.. "
+	cont "if .. you give"
+	cont "it back to me, "
+	cont "that is! they are"
+	cont "mine, mine alone!"
+	cont "my precious!!!"
 	done
 
 _OaksLabRivalWhatAboutMeText::
@@ -360,5 +366,5 @@ _OaksLabRivalLeaveItAllToMeText::
 
 _OaksLabScientistText::
 	text "I study #MON as"
-	line "PROF.OAK's AIDE."
+	line "MC.OAK's AIDE."
 	done

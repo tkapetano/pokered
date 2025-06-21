@@ -435,7 +435,7 @@ _OakLabEmailText::
 	para "#MON LEAGUE HQ"
 	line "INDIGO PLATEAU"
 
-	para "PS: PROF.OAK,"
+	para "PS: MC.OAK,"
 	line "please visit us!"
 	cont "..."
 	done
@@ -1667,7 +1667,7 @@ _GetDexRatedText::
 
 _ClosedOaksPCText::
 	text "Closed link to"
-	line "PROF.OAK's PC.@"
+	line "MC.OAK's PC.@"
 	text_end
 
 _AccessedOaksPCText::
