@@ -46,3 +46,39 @@ pokered_v3:
 - renamed PROF.OAK to MC.OAK
 - adapted rivals team, works now
 
+pokered_v4:
+- Encounter changes: replace 1% encounter pokemon by a nice one
+- Plan make Catch'em all possible, by catch + evolve in a single game, traditionally 27/151 are not obtainable: 
+    - mix the red / blue version specifics:
+    blue: exclusive Pokémon are Sandshrew, Sandslash, Bellsprout, Weepinbell, Victreebel, Meowth, Persian, Vulpix, Ninetales, Magmar, and Pinsir.
+    red: exclusive Pokémon are Ekans, Arbok, Oddish, Gloom, Vileplume, Mankey, Primeape, Growlithe, Arcanine, Scyther, and Electabuzz
+
+    - all starters are catchable: Bulbasaur, Charmander, Squirtle
+    
+    - make evolve-on-trading pokemon catchable: Alakazam, Macham, Golem, Gengar
+
+    - make choice pokemon catchable: Vaporeon, Jolteon, Flareon, Omanyte, Kabuto, Hitmonlee, Hitmonchan
+
+    - make Mew catchable
+
+- spice up the 1% catch slot for a bigger variety of interesting pokemon to catch (in increasing niceness)
+    - TANGELA
+    - ABRA
+    - PONYTA
+    - GROWLITHE
+    - VULPIX
+    - PIKACHU
+    - PORYGON
+    - TAUROS
+    - KANGASKHAN
+    - CHANSEY
+    - MR_MIME
+    - MAGMAR
+    - ELECTABUZZ
+    - SCYTHER
+    - PINSIR
+    - AERODACTYL
+    - DRATINI
+    - LAPRAS
+
+- distribute over the ca 60 span fields
