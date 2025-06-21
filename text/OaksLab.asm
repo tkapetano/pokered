@@ -33,13 +33,13 @@ _OaksLabYouWantCharmanderText::
 
 _OaksLabYouWantSquirtleText::
 	text "So! You want the"
-	line "water #MON,"
+	line "ice #MON,"
 	cont "ARTICUNO?"
 	done
 
 _OaksLabYouWantBulbasaurText::
 	text "So! You want the"
-	line "plant #MON,"
+	line "electro #MON,"
 	cont "ZAPDOS?"
 	done
 
@@ -227,6 +227,7 @@ _OaksLabOakChooseMonText::
 _OaksLabRivalWhatAboutMeText::
 	text "<RIVAL>: Hey!"
 	line "Gramps! What"
+	cont "the fuck, what"
 	cont "about me?"
 	done
 

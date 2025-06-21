@@ -1700,7 +1700,7 @@ _OakSpeechText1::
 
 	para "My name is OAK!"
 	line "People call me"
-	cont "the #MON PROF!"
+	cont "the #MON MC!"
 	prompt
 
 _OakSpeechText2A::
