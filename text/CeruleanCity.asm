@@ -92,6 +92,8 @@ _CeruleanCityRocketIGiveUpText::
 	text "Stop!"
 	line "I give up! I'll"
 	cont "leave quietly!"
+	cont "After all we"
+	cont "TEAM STUPID."
 	prompt
 
 _CeruleanCityRocketIllReturnTheTMText::
@@ -127,7 +129,8 @@ _CeruleanCityGuardText::
 	line "were robbed."
 
 	para "It's obvious that"
-	line "TEAM ROCKET is"
+	line "TEAM ROCKET aka"
+	cont "TEAM STUPID is"
 	cont "behind this most"
 	cont "heinous crime!"
 

@@ -82,7 +82,7 @@ YoungsterData:
 
 BugCatcherData:
 ; Viridian Forest
-	db 6, WEEDLE, CATERPIE, 0
+	db 6, WEEDLE, CATERPIE, TANGELA, 0
 	db 7, WEEDLE, KAKUNA, WEEDLE, 0
 	db 9, WEEDLE, 0
 ; Route 3
@@ -641,7 +641,7 @@ BrunoData:
 	db $FF, 53, ONIX, 55, HITMONCHAN, 55, HITMONLEE, 56, ONIX, 58, MACHAMP, 0
 
 BrockData:
-	db $FF, 12, GEODUDE, 14, ONIX, 0
+	db $FF, 12, GEODUDE, 13, RHYDON, 14, ONIX, 0
 
 MistyData:
 	db $FF, 18, STARYU, 21, STARMIE, 0
