@@ -10,7 +10,7 @@ IF DEF(_RED)
 	db  3, SPEAROW
 	db  5, SPEAROW
 	db  3, NIDORAN_F
-	db  4, NIDORAN_F
+	db  6, PINSIR
 ENDC
 IF DEF(_BLUE)
 	db  3, NIDORAN_F
@@ -21,7 +21,7 @@ IF DEF(_BLUE)
 	db  3, SPEAROW
 	db  5, SPEAROW
 	db  3, NIDORAN_M
-	db  4, NIDORAN_M
+	db  6, PINSIR
 ENDC
 	end_grass_wildmons
 

@@ -10,7 +10,7 @@ IF DEF(_RED)
 	db 30, SLOWPOKE
 	db 28, SEEL
 	db 38, DEWGONG
-	db 37, SEADRA
+	db 30, WARTORTLE
 ENDC
 IF DEF(_BLUE)
 	db 30, SHELLDER
@@ -22,7 +22,7 @@ IF DEF(_BLUE)
 	db 30, PSYDUCK
 	db 28, SEEL
 	db 38, DEWGONG
-	db 37, KINGLER
+	db 30, WARTORTLE
 ENDC
 	end_grass_wildmons
 

@@ -20,8 +20,8 @@ IF DEF(_BLUE)
 	db 26, BELLSPROUT
 	db 30, WEEPINBELL
 ENDC
-	db 28, PIDGEOTTO
-	db 30, PIDGEOTTO
+	db 32, PIDGEOTTO
+	db 25, PIKACHU
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

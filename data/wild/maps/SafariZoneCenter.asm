@@ -20,9 +20,9 @@ IF DEF(_BLUE)
 	db 25, EXEGGCUTE
 	db 31, NIDORINO
 	db 30, PARASECT
-	db 23, PINSIR
+	db 23, SCYTHER
 ENDC
-	db 23, CHANSEY
+	db 26, IVYSAUR
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

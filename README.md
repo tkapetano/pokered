@@ -54,31 +54,59 @@ pokered_v4:
     red: exclusive Pokémon are Ekans, Arbok, Oddish, Gloom, Vileplume, Mankey, Primeape, Growlithe, Arcanine, Scyther, and Electabuzz
 
     - all starters are catchable: Bulbasaur, Charmander, Squirtle
-    
+    CHARMANDER i
+    CHARMELEON i
+    CHARIZARD ii
+    SQUIRTLE i
+    WARTORTLE ii
+    BLASTOISE i
+    BULBASAUR i
+    IVYSAUR i
+    VENUSAUR ii
+
     - make evolve-on-trading pokemon catchable: Alakazam, Macham, Golem, Gengar
+    ALAKAZAM ii
+    MACHAMP i
+    GOLEM i
+    GENGAR iiii
+
+
 
     - make choice pokemon catchable: Vaporeon, Jolteon, Flareon, Omanyte, Kabuto, Hitmonlee, Hitmonchan
+    - HITMONLEE i
+    - HITMONCHAN ii
+    - OMANYTE ii
+    - KABUTO ii
+    - FLAREON i
+    - JOLTEON iii
+    - VAPOREON i
 
     - make Mew catchable
+    - MEW ii
 
 - spice up the 1% catch slot for a bigger variety of interesting pokemon to catch (in increasing niceness)
-    - TANGELA
-    - ABRA
-    - PONYTA
-    - GROWLITHE
-    - VULPIX
-    - PIKACHU
-    - PORYGON
-    - TAUROS
-    - KANGASKHAN
-    - CHANSEY
-    - MR_MIME
-    - MAGMAR
-    - ELECTABUZZ
-    - SCYTHER
-    - PINSIR
-    - AERODACTYL
-    - DRATINI
-    - LAPRAS
+    - TANGELA i
+    - ABRA ii
+    - EEVEE ii
+    - PONYTA i
+    - RHYDON i
+    - EXEGGCUTE ii
+    - VULPIX ii
+    - PIKACHU ii
+    - LICKITUNG ii
+    - PORYGON iii
+    - TAUROS i
+    - KANGASKHAN i
+    - CHANSEY ii
+    - MR_MIME ii
+    - MAGMAR ii
+    - ELECTABUZZ i
+    - SCYTHER i
+    - PINSIR ii
+    - AERODACTYL ii
+    - DRATINI iii
+    - LAPRAS i
+    - GYARADOS i
+    - SNORLAX i
 
 - distribute over the ca 60 span fields

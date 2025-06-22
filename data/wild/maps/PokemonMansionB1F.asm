@@ -9,8 +9,8 @@ IF DEF(_RED)
 	db 40, WEEZING
 	db 34, PONYTA
 	db 35, GRIMER
-	db 42, WEEZING
-	db 42, MUK
+	db 42, MAGMAR
+	db 42, HITMONCHAN
 ENDC
 IF DEF(_BLUE)
 	db 33, GRIMER
@@ -22,7 +22,7 @@ IF DEF(_BLUE)
 	db 34, PONYTA
 	db 35, KOFFING
 	db 38, MAGMAR
-	db 42, WEEZING
+	db 42, HITMONCHAN
 ENDC
 	end_grass_wildmons
 

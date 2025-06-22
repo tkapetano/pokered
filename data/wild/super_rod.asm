@@ -76,7 +76,7 @@ SuperRodData:
 	db 4
 	db 5, TENTACOOL
 	db 15, KRABBY
-	db 15, GOLDEEN
+	db 15, DRATINI
 	db 15, MAGIKARP
 
 .Group8:
@@ -98,4 +98,4 @@ SuperRodData:
 	db 23, SEAKING
 	db 15, KRABBY
 	db 15, GOLDEEN
-	db 15, MAGIKARP
+	db 35, GYARADOS

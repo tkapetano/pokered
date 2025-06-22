@@ -9,7 +9,7 @@ PokemonTower5FWildMons:
 	db 25, HAUNTER
 	db 20, CUBONE
 	db 22, CUBONE
-	db 24, GASTLY
+	db 30, GENGAR
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

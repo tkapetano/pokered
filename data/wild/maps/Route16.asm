@@ -8,8 +8,8 @@ Route16WildMons:
 	db 18, DODUO
 	db 22, DODUO
 	db 22, RATTATA
-	db 23, RATICATE
-	db 25, RATICATE
+	db 32, RATICATE
+	db 25, CHANSEY
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

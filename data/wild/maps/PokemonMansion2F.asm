@@ -10,7 +10,7 @@ IF DEF(_RED)
 	db 30, GRIMER
 	db 28, PONYTA
 	db 39, WEEZING
-	db 37, MUK
+	db 44, GENGAR
 ENDC
 IF DEF(_BLUE)
 	db 32, VULPIX
@@ -22,7 +22,7 @@ IF DEF(_BLUE)
 	db 30, KOFFING
 	db 28, PONYTA
 	db 39, MUK
-	db 37, WEEZING
+	db 44, GENGAR
 ENDC
 	end_grass_wildmons
 

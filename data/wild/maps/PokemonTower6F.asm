@@ -9,7 +9,7 @@ PokemonTower6FWildMons:
 	db 26, HAUNTER
 	db 22, CUBONE
 	db 24, CUBONE
-	db 28, HAUNTER
+	db 32, GENGAR
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

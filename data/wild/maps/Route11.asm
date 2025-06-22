@@ -18,9 +18,9 @@ IF DEF(_BLUE)
 	db 13, DROWZEE
 	db 15, SANDSHREW
 ENDC
-	db 17, SPEAROW
-	db 11, DROWZEE
-	db 15, DROWZEE
+	db 17, HITMONLEE
+	db 11, HITMONCHAN
+	db 15, MACHAMP
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

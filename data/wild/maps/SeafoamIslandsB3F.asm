@@ -22,7 +22,7 @@ IF DEF(_BLUE)
 	db 29, STARYU
 	db 39, KINGLER
 ENDC
-	db 37, DEWGONG
+	db 42, DEWGONG
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

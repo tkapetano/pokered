@@ -13,8 +13,8 @@ IF DEF(_BLUE)
 	db 57, SANDSLASH
 ENDC
 	db 65, DITTO
-	db 63, DITTO
-	db 67, DITTO
+	db 63, AERODACTYL
+	db 60, JOLTEON
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

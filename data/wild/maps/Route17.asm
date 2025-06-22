@@ -8,8 +8,8 @@ Route17WildMons:
 	db 26, DODUO
 	db 28, DODUO
 	db 29, RATICATE
-	db 25, FEAROW
-	db 27, FEAROW
+	db 25, EEVEE
+	db 45, SNORLAX
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

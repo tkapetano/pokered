@@ -10,7 +10,7 @@ IF DEF(_RED)
 	db 29, GOLBAT
 	db 28, PSYDUCK
 	db 28, SHELLDER
-	db 38, GOLDUCK
+	db 28, DRATINI
 ENDC
 IF DEF(_BLUE)
 	db 30, PSYDUCK
@@ -21,7 +21,7 @@ IF DEF(_BLUE)
 	db 29, GOLBAT
 	db 28, SLOWPOKE
 	db 28, STARYU
-	db 38, SLOWBRO
+	db 28, DRATINI
 ENDC
 	end_grass_wildmons
 
