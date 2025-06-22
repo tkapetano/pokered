@@ -70,8 +70,6 @@ pokered_v4:
     GOLEM i
     GENGAR iiii
 
-
-
     - make choice pokemon catchable: Vaporeon, Jolteon, Flareon, Omanyte, Kabuto, Hitmonlee, Hitmonchan
     - HITMONLEE i
     - HITMONCHAN ii

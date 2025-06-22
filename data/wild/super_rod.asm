@@ -74,7 +74,7 @@ SuperRodData:
 
 .Group7:
 	db 4
-	db 5, TENTACOOL
+	db 5, LICKITUNG
 	db 15, KRABBY
 	db 15, DRATINI
 	db 15, MAGIKARP
