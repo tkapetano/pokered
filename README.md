@@ -108,3 +108,8 @@ pokered_v4:
     - SNORLAX i
 
 - distribute over the ca 60 span fields
+
+pokered_v5:
+- changed parties of some trainers
+- changed some team rocket text
+- made Team rocket stronger

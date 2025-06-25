@@ -313,6 +313,8 @@ _OaksLabOakMyInventionPokedexText::
 
 	para "It's a hi-tech"
 	line "encyclopedia!"
+	cont "I am so proud"
+	cont "of myself!"
 	done
 
 _OaksLabOakGotPokedexText::
@@ -338,6 +340,7 @@ _OaksLabOakThatWasMyDreamText::
 	para "So, I want you two"
 	line "to fulfill my"
 	cont "dream for me!"
+	cont "Mashallah."
 
 	para "Get moving, you"
 	line "two!"
