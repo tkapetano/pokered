@@ -65,6 +65,7 @@ pokered_v4:
     VENUSAUR ii
 
     - make evolve-on-trading pokemon catchable: Alakazam, Macham, Golem, Gengar
+    (see v6, made them to evolve by level, not by trade)
     ALAKAZAM ii
     MACHAMP i
     GOLEM i
@@ -113,3 +114,5 @@ pokered_v5:
 - changed parties of some trainers
 - changed some team rocket text
 - made Team rocket stronger
+- evolve by level not by exchange
+- rival get mew and add hint

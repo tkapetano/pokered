@@ -156,20 +156,30 @@ _SilphCo7FRivalWaitedHereText::
 	cont "waited here!"
 
 	para "I guess TEAM"
-	line "ROCKET slowed you"
+	line "STUPID slowed you"
 	cont "down! Not that I"
 	cont "care!"
 
-	para "I saw you in"
-	line "SAFFRON, so I"
-	cont "decided to see if"
-	cont "you got better!"
+	para "I worked hard"
+	line "on myself and it"
+	cont "paid off double."
+	cont "You are in for a"
+	cont "sweet surpise!"
 	done
 
 _SilphCo7FRivalDefeatedText::
 	text "Oh ho!"
 	line "So, you are ready"
 	cont "for BOSS ROCKET!"
+	cont "Let me give you"
+	cont "some advice:"
+	
+	para "If you ever"
+	cont "want to be as"
+	cont "awesome as me"
+	cont "go to Route 24"
+	cont "and bring some"
+	cont "patience."
 	prompt
 
 _SilphCo7FRivalVictoryText::

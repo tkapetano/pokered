@@ -34,7 +34,10 @@ _Route22RivalAfterBattleText1::
 _Route22Rival1DefeatedText::
 	text "Awww!"
 	line "You just lucked"
-	cont "out!"
+	cont "out! Again."
+	cont "I will try"
+	cont "harder, you will"
+	cont "see!"
 	prompt
 
 _Route22Rival1VictoryText::
